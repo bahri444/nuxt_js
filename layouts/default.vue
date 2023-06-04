@@ -16,7 +16,7 @@
           <NuxtLink
             to="/"
             class="text-xl font-bold text-gray-800 md:text-2xl hover:text-blue-600"
-            >UKM TECHNOLOGY CODE</NuxtLink
+            >E - LEARNING TECHCODE</NuxtLink
           >
           <!-- Mobile menu button -->
           <div @click="showMenu = !showMenu" class="flex md:hidden">

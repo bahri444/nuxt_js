@@ -2,7 +2,7 @@
   <div>
     <NuxtLayout name="sidebar">
       <div class="text-center">
-        <p>testing home admin</p>
+        <p>testing users</p>
       </div>
     </NuxtLayout>
   </div>
